@@ -4,7 +4,7 @@ var nama, npm, kelas:array[1..3] of string;
 var i:integer;
 
 begin
-   for i := 1  to 3 do
+   for i := 1  to 5 do
    begin
   writeln();
   writeln('Data ke-', i);
@@ -18,7 +18,7 @@ begin
    
    writeln('======================');
 
-   for i := 1  to 3 do
+   for i := 1  to 5 do
    begin
   writeln();
   writeln('Data ke-', i);
